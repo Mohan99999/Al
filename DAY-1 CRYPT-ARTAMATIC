@@ -51,4 +51,3 @@ public class SimpleSolver {
  System.out.println(solve(query));
  }
 }
-DAY 1( VACCUM
